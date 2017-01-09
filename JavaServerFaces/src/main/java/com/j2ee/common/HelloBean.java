@@ -1,4 +1,4 @@
-package com.mkyong.common;
+package com.j2ee.common;
 
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.SessionScoped;
