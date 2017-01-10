@@ -1,4 +1,5 @@
 package com.j2ee.common;
+//ferroudja
 
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.SessionScoped;
